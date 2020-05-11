@@ -1,0 +1,9 @@
+/Users/daviderusso1984/Desktop/ng-rust/ng-rust/wasm/target/rls/debug/deps/wasm_bindgen_test-8379b26751972ca5.rmeta: /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/lib.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/mod.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/browser.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/detect.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/node.rs
+
+/Users/daviderusso1984/Desktop/ng-rust/ng-rust/wasm/target/rls/debug/deps/wasm_bindgen_test-8379b26751972ca5.d: /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/lib.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/mod.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/browser.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/detect.rs /Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/node.rs
+
+/Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/lib.rs:
+/Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/mod.rs:
+/Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/browser.rs:
+/Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/detect.rs:
+/Users/daviderusso1984/.cargo/registry/src/github.com-1ecc6299db9ec823/wasm-bindgen-test-0.2.50/src/rt/node.rs:
